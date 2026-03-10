@@ -4,7 +4,7 @@ SOFTWARE DEVELOPER
 ![Danila Zanko Photo](https://github.com/ZankoDanila.png) 
 
 ## Contacts
-* Phone: +375 25 750 8514
+* Phone: +375 25 750 8814
 * Email: zanko.danila@gmail.com
 * Telegram: [Telegram Profile](https://t.me/your_username)
 * Location: Mogilev, Belarus
@@ -17,6 +17,7 @@ Results-oriented developer with a passion for Game Development and Mobile Soluti
 * Participant of "100 Ideas for Belarus" (City Stage).
 * First place in BrSTU startup contest (Welding equipment accounting app).
 * Experience in C# and Unreal Engine 5 (C++/Blueprints).
+* I am creating my own future game studio with my business partner friend and developing a universe, that will conquer EVERYONE one day!  - [Telegram Channel](https://t.me/HopeFarer)
 
 ---
 
