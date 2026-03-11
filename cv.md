@@ -22,7 +22,7 @@ Results-oriented developer with a passion for Game Development and Mobile Soluti
 ---
 
 ## PERSONAL PROJECT: DARK FANTASY GAME
-![My Photo](me.jpg)
+![My Photo](me.png)
 
 I am developing an immersive RPG with a deep focus on techno-fantasy lore and character-driven storytelling. The project features a unique universe where magic and technology coexist, aiming for a 10-12 hour gameplay experience. My work involves both technical implementation in Unreal Engine 5 and comprehensive world-building, including detailed character archetypes and narrative structures.
 
